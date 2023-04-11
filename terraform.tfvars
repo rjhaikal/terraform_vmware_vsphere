@@ -1,6 +1,6 @@
 # vcenter credentials
 vsphere_user          = "Administrator@cx-vcsa8.btech.id"
-vsphere_password      = "Gladiators88@"
+vsphere_password      = "xxx"
 vsphere_server        = "10.20.13.221"
 vsphere_datacenter    = "cx-esxi7.btech.id"
 vsphere_datasource    = "datastore1"
@@ -11,7 +11,7 @@ vsphere_network       = "VM Network"
 vsphere_template      = "ubuntu22-template-tf"
 # OS template credentials
 jumphost_user         = "ubuntu"
-jumphost_password     = "gladiators88"
+jumphost_password     = "xxx"
 
 jumphost_name         = "ubuntu-22-vm"
 jumphost_vm_folder    = "" # empty for root location
